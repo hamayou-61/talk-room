@@ -1,6 +1,7 @@
 # はなしべや
 
 ロールが設定されたキャラと音声だけを用いて、会話を楽しむことができます。
+https://talk-room.netlify.app/
 
 ### Project setup
 ```
